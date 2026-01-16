@@ -34,5 +34,6 @@ public class OddOneOut {
             System.out.println(answer);
             T--;
         }
+        sc.close();
     }
 }
