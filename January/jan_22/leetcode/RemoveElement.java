@@ -1,4 +1,4 @@
-package January.jjan_22.leetcode;
+package January.jan_22.leetcode;
 
 public class RemoveElement {
     public static void main(String[] args) {
