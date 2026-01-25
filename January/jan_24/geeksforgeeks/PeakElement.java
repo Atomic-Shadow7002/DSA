@@ -1,7 +1,5 @@
 package January.jan_24.geeksforgeeks;
 
-import January.jan_12.geeksforgeeks.reverseString;
-
 public class PeakElement {
     public static void main(String[] args) {
         /*
